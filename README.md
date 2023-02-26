@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yousef-010
+- 👋 Hi, I’m Yousef
 - 👀 I’m interested in BcakEnd and FrontEnd development using JS and Python
 - 🌱 I’m currently using JS and Python
 - 💞️ I’m looking to work internationally ...
