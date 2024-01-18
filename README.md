@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yousef
 - 👀 I’m interested in BcakEnd and FrontEnd development using JS and Python
-- 🌱 I’m currently using JS and Python
-- 💞️ I’m looking to work internationally ...
+- 🌱 I currently use JS and Python
+- 💞️ I’m looking to work Locally & internationally ...
 - 📫 How to reach me ... whatsapp [ 00962790743103 ]
 
 <!---
